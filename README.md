@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dharma</h1>
+<h1 align="center">Hi 👋, I'm Dharma Teja Garipally</h1>
 <h3 align="center">Software Engineer | Data Analyst | Cloud Enthusiast</h3>
 
 <p align="center">
