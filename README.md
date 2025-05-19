@@ -45,7 +45,6 @@
 ### 🌍 Computer Vision & AI
 - **[Pothole Detection System](https://github.com/Dharma0124/pothole-detection-yolov8):** AI-powered real-time pothole detection using **YOLOv8, OpenCV, and GPS**.
 - **[Car Parking Space Detection](https://github.com/Dharma0124/CarParkingSpaces):** Image processing-based system to detect available parking spots using **OpenCV**.
-![image](https://github.com/user-attachments/assets/9c71392c-265e-48ee-be73-86ffb6808060)
 
 ---
 
